@@ -1,4 +1,4 @@
-# Aurora Sofle v2's Default Keymap
+# Aurora Sofle v2 Slovak Halmak coding layout
 This keymap is an original spin on the Halmak layout for the slovak layout, with programming in neovim in mind.
 
 Keymaps in general are quite personal, so many of these key combinations might not work for you, so feel free to modify and adjust :).
